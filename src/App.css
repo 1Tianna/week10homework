@@ -1,0 +1,24 @@
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input, select, textarea {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  h1 {
+    display: flex;
+    justify-content: center;
+    color: #397e4921;
+    font-size: 60px;
+    padding-bottom: 0cm;
+    margin-bottom: 0cm;
+  }
+  
+  
